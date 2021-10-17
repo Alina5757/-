@@ -8,7 +8,9 @@ using System.Threading.Tasks;
 namespace TechProgr
 {
 	public class Bus : Vehicle
-	{
+	{/// <summary>
+	/// ///////////////////////////////////////////////
+	/// </summary>
 		protected readonly int busWidth = 95;
 		protected readonly int busHeight = 35;
 

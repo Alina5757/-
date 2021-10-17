@@ -42,7 +42,6 @@ namespace TechProgr
             return -1;
         }
 
-
         public static T operator -(ParkingBus<T> p, int index)
         {
             if ((index <= p.places.Length) && (index >= 0))
